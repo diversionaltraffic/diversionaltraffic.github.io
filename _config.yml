@@ -1,0 +1,27 @@
+title: Diversional Traffic 
+email: publicationdt@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Blog for Diversional Traffic a mobile app company.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: dt_apps
+github_username:  diversionaltraffic
+facebook_username: dtapplications
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
