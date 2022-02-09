@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "R Clicked App Series - Privacy Policy"
+title:  "Level Z Apps - Terms"
 date:   2022-02-09 09:00:00 +0800
 categories: legal
 ---
